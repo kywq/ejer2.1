@@ -1,0 +1,50 @@
+html{
+    background-color:#F4E2CC;
+}
+h1.estilo{
+    color: #630C0F;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+img.indice{
+    float: right;
+}
+p.indice{
+    float: left;
+    font-size: 25px;
+}
+body{
+    margin: auto;
+    max-width: 1000px;
+}
+p.rojo{
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2.rojo{
+    color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p.naranja{
+    color: rgb(212, 106, 68);
+}
+col.t1columna1{
+    width: 100px;
+}
+col.t1columna2y3{
+    width: 450px;
+}
+col.t2columna1{
+    width: 300px;
+}
+col.t2columna2{
+    width: 700px;
+}
+tbody.rojo{
+    font-size: 19px;
+    color: darkred;
+}
+th.resaltar{
+    background-color: #E8D0B9;
+}
